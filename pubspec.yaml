@@ -10,8 +10,8 @@ environment:
 dependencies:
   cached_network_image:
     git:
-      url: https://github.com/PsyOhm23/flutter_cached_network_image
-      ref: master
+      url: https://github.com/MichaelMarner/flutter_cached_network_image.git
+      ref: stop-flicker
   chewie: ^0.9.8+1
   flutter:
     sdk: flutter
